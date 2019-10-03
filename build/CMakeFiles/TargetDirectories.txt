@@ -1,0 +1,8 @@
+/home/talon/Desktop/computorv2/build/CMakeFiles/rebuild_cache.dir
+/home/talon/Desktop/computorv2/build/CMakeFiles/edit_cache.dir
+/home/talon/Desktop/computorv2/build/Tmaths/CMakeFiles/rebuild_cache.dir
+/home/talon/Desktop/computorv2/build/Tmaths/CMakeFiles/Tmaths.dir
+/home/talon/Desktop/computorv2/build/Tmaths/CMakeFiles/edit_cache.dir
+/home/talon/Desktop/computorv2/build/app/CMakeFiles/rebuild_cache.dir
+/home/talon/Desktop/computorv2/build/app/CMakeFiles/computor.dir
+/home/talon/Desktop/computorv2/build/app/CMakeFiles/edit_cache.dir

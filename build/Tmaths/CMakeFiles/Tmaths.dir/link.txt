@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTmaths.a  CMakeFiles/Tmaths.dir/src/Tmaths.cpp.o
+/usr/bin/ranlib libTmaths.a
